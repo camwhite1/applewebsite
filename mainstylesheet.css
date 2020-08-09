@@ -89,7 +89,7 @@ li a:hover{
 .header-img{
     width: 100%;
     height: 400px;
-    background: url(Images/mainapplese.png);
+    background: url(mainapplese.png);
     background-size: cover;
 }
 
@@ -144,7 +144,7 @@ li a:hover{
 .iphone11picture{
     width: 100%;
     height: 1000px;
-    background: url(Images/iphone112.jpg);
+    background: url(iphone112.jpg);
     background-size: cover
 }
 
@@ -152,7 +152,7 @@ li a:hover{
     
     width: 100%;
     height: 640px;
-    background: url(Images/opera.png);
+    background: url(opera.png);
     background-size: cover
 }
 
